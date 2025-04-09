@@ -82,8 +82,7 @@ model.fit(X_train, y_train)
 ## 📈 Gráficos Analíticos
 
 ### 1. Distribuição das Variáveis
-![Boxplot]([https://i.imgur.com/boxplot_distribuicao.png](https://github.com/maxMitsuya/analise_mercado_imoveis/blob/main/boxplot.png
-))
+![Boxplot](https://github.com/maxMitsuya/analise_mercado_imoveis/blob/main/boxplot.png)
 *Distribuição das características dos imóveis com identificação de outliers*
 
 ### 2. Histogramas das Principais Variáveis
