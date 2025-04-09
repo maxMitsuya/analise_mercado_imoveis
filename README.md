@@ -91,6 +91,7 @@ model.fit(X_train, y_train)
 
 ### 3. Matriz de Correlação
 ![Heatmap](https://github.com/maxMitsuya/analise_mercado_imoveis/blob/main/heatmap.png)
+
 *Correlação entre todas as variáveis do dataset*
 
 ### 4. Previsões vs Valores Reais
