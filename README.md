@@ -86,15 +86,15 @@ model.fit(X_train, y_train)
 *Distribuição das características dos imóveis com identificação de outliers*
 
 ### 2. Histogramas das Principais Variáveis
-![Histogramas](https://i.imgur.com/histogramas_renda_populacao_preco.png)
+![Histogramas](https://github.com/maxMitsuya/analise_mercado_imoveis/blob/main/histograma.png)
 *Distribuição de renda, população e preços dos imóveis*
 
 ### 3. Matriz de Correlação
-![Heatmap](https://i.imgur.com/heatmap_correlacao.png)
+![Heatmap](https://github.com/maxMitsuya/analise_mercado_imoveis/blob/main/heatmap.png)
 *Correlação entre todas as variáveis do dataset*
 
 ### 4. Previsões vs Valores Reais
-![Scatter Plot](https://i.imgur.com/scatter_previsoes_reais.png)
+![Scatter Plot](https://github.com/maxMitsuya/analise_mercado_imoveis/blob/main/resultado_previsao.png)
 *Comparação entre valores previstos e reais com linha de perfeita previsão*
 
 ## 🔍 Resultados: Impacto das Variáveis
