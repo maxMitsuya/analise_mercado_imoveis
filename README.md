@@ -96,6 +96,7 @@ model.fit(X_train, y_train)
 
 ### 4. Previsões vs Valores Reais
 ![Scatter Plot](https://github.com/maxMitsuya/analise_mercado_imoveis/blob/main/resultado_previsao.png)
+
 *Comparação entre valores previstos e reais com linha de perfeita previsão*
 
 ## 🔍 Resultados: Impacto das Variáveis
